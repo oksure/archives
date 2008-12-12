@@ -1,0 +1,4 @@
+== 0.0.1, release 2008-12-12
+
+* Initial commit and search function implemented
+* 최초 커밋, 검색 기능 구현
